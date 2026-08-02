@@ -8,6 +8,7 @@ The moment a data scientist becomes a full-stack builder: a **first Streamlit ap
 ![Series](https://img.shields.io/badge/GenAI%20Series-Part%205-blueviolet)
 
 ---
+### 🔗 Live Demo → ... **[https://frontend-first-app.onrender.com](https://frontend-first-app.onrender.com)**
 
 ## 📌 Why This Tiny App Matters
 
